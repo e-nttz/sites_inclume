@@ -122,9 +122,10 @@ ActivitesNamur.excerpt = "Découvrez les meilleures activités à Namur, à ne m
 
 // Mots clés
 ActivitesNamur.motsCles = [
-	"mot_cle_1",
-	"mot_cle_2",
-	"mot_cle_3"
+	"Activités",
+	"Namur",
+	"Belgique",
+	"Incontournable"
 ];
 
 // Site favicon icon
