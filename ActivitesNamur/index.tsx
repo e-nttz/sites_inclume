@@ -123,10 +123,41 @@ ActivitesNamur.excerpt = "Découvrez les meilleures activités à Namur, à ne m
 // Mots clés
 ActivitesNamur.motsCles = [
 	"Activité",
+	"Actvité", // Variante avec faute
+	"Activités", 
+	"Activites", // Variante sans accent
 	"Namur",
+	"Nmaur", // Variante avec faute
 	"Belgique",
-	"Incontournable"
+	"Belgiqe", // Variante avec faute
+	"Incontournable",
+	"Incontournbles", // Variante avec faute
+	"Loisir",
+	"Loisirs",
+	"Loisir", // Variante singulier
+	"Excursion",
+	"Excurion", // Variante avec faute
+	"Tourisme",
+	"Tourime", // Variante avec faute
+	"Découverte",
+	"Decouverte", // Variante sans accent
+	"Visite",
+	"Visites",
+	"Vistite", // Variante avec faute
+	"Culture",
+	"Cultur", // Variante avec faute
+	"Aventure",
+	"Aventur", // Variante avec faute
+	"Natu", // Variante courte
+	"Nature",
+	"Patrimoine",
+	"Patrimone", // Variante avec faute
+	"Divertissement",
+	"Divertissemnt", // Variante avec faute
+	"Environnement",
+	"Environement" // Variante avec faute
 ];
+
 
 // Site favicon icon
 ActivitesNamur.favicon = <IconSearchEngine />;
