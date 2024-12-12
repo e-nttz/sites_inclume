@@ -122,7 +122,7 @@ ActivitesNamur.excerpt = "Découvrez les meilleures activités à Namur, à ne m
 
 // Mots clés
 ActivitesNamur.motsCles = [
-	"Activités",
+	"Activité",
 	"Namur",
 	"Belgique",
 	"Incontournable"
