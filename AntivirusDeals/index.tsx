@@ -163,9 +163,79 @@ AntivirusDeals.excerpt = "AntivirusDeals vous aide à trouver les meilleures off
 
 // Mots clés
 AntivirusDeals.motsCles = [
-	"mot_cle_1",
-	"mot_cle_2",
-	"mot_cle_3"
+	"antivirus",
+	"anti-virus", // Variante orthographique
+	"deals",
+	"offres",
+	"promo",
+	"promos",
+	"promotion",
+	"promotions",
+	"réduction",
+	"reduction", // Variante orthographique
+	"bon plan",
+	"bons plans",
+	"économie",
+	"economie", // Variante orthographique
+	"discount",
+	"rabais",
+	"logiciel",
+	"logiciels",
+	"antivirus pas cher",
+	"antivirus économique",
+	"antivirus promo",
+	"antivirus discount",
+	"meilleure offre",
+	"meilleures offres",
+	"solution antivirus",
+	"solutions antivirus",
+	"protection",
+	"sécurité",
+	"securite", // Variante orthographique
+	"cybersécurité",
+	"cybersecurite", // Variante orthographique
+	"ordinateur",
+	"ordinateurs",
+	"pc",
+	"mac",
+	"windows",
+	"linux",
+	"protection en ligne",
+	"logiciels antivirus",
+	"meilleur antivirus",
+	"comparatif antivirus",
+	"évaluation antivirus",
+	"achat antivirus",
+	"acheter antivirus",
+	"licence antivirus",
+	"clé antivirus",
+	"clé de licence",
+	"mise à jour antivirus",
+	"mise a jour antivirus", // Variante orthographique
+	"abonnement antivirus",
+	"abonnement annuel",
+	"abonnement mensuel",
+	"sécuriser",
+	"securiser", // Variante orthographique
+	"menaces en ligne",
+	"protection pc",
+	"protection mac",
+	"protection internet",
+	"cyberprotection",
+	"prix réduit",
+	"prix reduit", // Variante orthographique
+	"économies antivirus",
+	"meilleur prix",
+	"meilleurs prix",
+	"codes promo antivirus",
+	"code promotionnel",
+	"offre spéciale",
+	"offres spéciales",
+	"essai gratuit",
+	"gratuit",
+	"discount antivirus",
+	"solution de sécurité",
+	"solutions de sécurité"
 ];
 
 AntivirusDeals.favicon = <IconSearchEngine />;
