@@ -160,9 +160,79 @@ VirusGuardian.excerpt = "Virus Guardian offre une collection de tutoriels comple
 
 // Mots clés
 VirusGuardian.motsCles = [
-	"mot_cle_1",
-	"mot_cle_2",
-	"mot_cle_3"
+"virus",
+	"antivirus",
+	"anti-virus", // Variante orthographique
+	"guardian",
+	"protection",
+	"sécurité",
+	"securite", // Variante d'orthographe
+	"cybersécurité",
+	"cybersecurite", // Variante d'orthographe
+	"logiciel",
+	"logiciels",
+	"tutoriel",
+	"tutoriels",
+	"guide",
+	"guides",
+	"installation",
+	"installer",
+	"configuration",
+	"configurer",
+	"paramètres",
+	"parametres", // Variante d'orthographe
+	"utilisation",
+	"efficace",
+	"efficacité",
+	"efficacite", // Variante d'orthographe
+	"outil",
+	"outils",
+	"ordinateur",
+	"ordinateurs",
+	"pc",
+	"mac",
+	"logiciels antivirus",
+	"protéger",
+	"protection en ligne",
+	"sécurité en ligne",
+	"tutoriel antivirus",
+	"guide antivirus",
+	"guide pratique",
+	"facile",
+	"rapide",
+	"assistance",
+	"aide",
+	"support",
+	"vidéo",
+	"videos",
+	"video", // Variante d'orthographe
+	"étape",
+	"etape", // Variante d'orthographe
+	"pas à pas",
+	"activation",
+	"activer",
+	"mise à jour",
+	"mise a jour", // Variante d'orthographe
+	"problème",
+	"problèmes",
+	"probleme", // Variante d'orthographe
+	"résolution",
+	"resolutions", // Variante d'orthographe
+	"protection informatique",
+	"internet",
+	"risque",
+	"menaces",
+	"menace",
+	"menaces informatiques",
+	"utilisateur",
+	"utilisateurs",
+	"sécuriser",
+	"prévention",
+	"securiser", // Variante d'orthographe
+	"pare-feu",
+	"firewall",
+	"solution",
+	"solutions"
 ];
 
 VirusGuardian.favicon = <IconSearchEngine />;
