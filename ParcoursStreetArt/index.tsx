@@ -115,8 +115,6 @@ ParcoursStreetArt.motsCles = [
     "expositions",
     "galerie",
     "galeries",
-    "artpublic",
-    "artmoderne",
     "histoire",
     "historique",
     "rue",
