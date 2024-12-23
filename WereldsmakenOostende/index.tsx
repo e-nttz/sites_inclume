@@ -156,7 +156,6 @@ WereldsmakenOostende.motsCles = [
 	"experience", // Variante d'orthographe
 	"dégustation",
 	"degustation", // Variante d'orthographe
-	"tourisme culinaire",
 	"repas",
 	"table",
 	"tables",
@@ -168,19 +167,11 @@ WereldsmakenOostende.motsCles = [
 	"serveuse",
 	"chef",
 	"chefs",
-	"gastronomie mondiale",
-	"repas exotiques",
-	"spécialités internationales",
-	"saveurs d'ailleurs",
-	"café-restaurant",
 	"terrasse",
 	"reservation",
 	"réservation", // Variante orthographique
 	"Oostende",
 	"Ostende", // Variante linguistique
-	"Bord de mer",
-	"bord-de-mer",
-	"bord de l'eau",
 	"mer"
 ];
 
