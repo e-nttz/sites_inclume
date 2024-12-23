@@ -142,13 +142,11 @@ OuikiHow.motsCles = [
     "protéger",
     "proteger", // Variante sans accent
     "en ligne",
-    "ordinateurpropre",
     "sansvirus",
     "nettoyage",
     "miseajour",
     "utilitaire",
     "sécurisation",
-    "installationguide",
     "explication",
     "procédure",
     "procedure", // Variante sans accent
