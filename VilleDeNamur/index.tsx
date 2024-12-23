@@ -154,7 +154,6 @@ VilleDeNamur.motsCles = [
 	"festivals",
 	"aventure",
 	"exploration",
-	"en ligne",
 	"calendrier",
 	"agenda",
 	"week-end",
