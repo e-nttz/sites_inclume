@@ -173,8 +173,6 @@ AntivirusDeals.motsCles = [
 	"promotions",
 	"réduction",
 	"reduction", // Variante orthographique
-	"bon plan",
-	"bons plans",
 	"économie",
 	"economie", // Variante orthographique
 	"discount",
