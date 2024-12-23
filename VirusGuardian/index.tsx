@@ -191,13 +191,7 @@ VirusGuardian.motsCles = [
 	"ordinateurs",
 	"pc",
 	"mac",
-	"logiciels antivirus",
 	"protéger",
-	"protection en ligne",
-	"sécurité en ligne",
-	"tutoriel antivirus",
-	"guide antivirus",
-	"guide pratique",
 	"facile",
 	"rapide",
 	"assistance",
@@ -208,7 +202,6 @@ VirusGuardian.motsCles = [
 	"video", // Variante d'orthographe
 	"étape",
 	"etape", // Variante d'orthographe
-	"pas à pas",
 	"activation",
 	"activer",
 	"mise à jour",
@@ -218,12 +211,10 @@ VirusGuardian.motsCles = [
 	"probleme", // Variante d'orthographe
 	"résolution",
 	"resolutions", // Variante d'orthographe
-	"protection informatique",
 	"internet",
 	"risque",
 	"menaces",
 	"menace",
-	"menaces informatiques",
 	"utilisateur",
 	"utilisateurs",
 	"sécuriser",
