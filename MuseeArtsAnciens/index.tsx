@@ -75,7 +75,6 @@ MuseeArtsAnciens.motsCles = [
     "histoire",
     "historique",
     "richesse",
-    "richesseculturelle",
     "namur",
     "ville",
     "visite",
