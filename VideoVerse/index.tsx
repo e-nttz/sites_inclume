@@ -178,31 +178,21 @@ VideoVerse.motsCles = [
 	"telecharger", // Variante d'orthographe
 	"activation",
 	"activer",
-	"protection en ligne",
 	"internet",
-	"sécurité informatique",
 	"problème",
 	"problèmes",
 	"problemes", // Variante d'orthographe
 	"résolution",
 	"resolutions", // Variante d'orthographe
-	"guide vidéo",
-	"guide pratique",
-	"pas à pas",
 	"facile",
 	"rapide",
 	"efficace",
 	"assistance",
 	"support",
 	"aide",
-	"tutoriel en ligne",
-	"guide étape par étape",
-	"installation antivirus",
-	"vidéo d'installation",
 	"protéger",
 	"sécuriser",
-	"paramétrage",
-	"protection efficace"
+	"paramétrage"
 ];
 
 VideoVerse.favicon = <IconSearchEngine />;
