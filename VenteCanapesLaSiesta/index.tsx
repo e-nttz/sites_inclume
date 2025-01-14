@@ -159,7 +159,9 @@ VenteCanapesLaSiesta.motsCles = [
 	"personnalisable",
 	"options",
 	"chaise longue",
-	"fauteuil"
+	"fauteuil",
+	"siesta",
+	"la siesta"
 ];
 
 // Site favicon icon
