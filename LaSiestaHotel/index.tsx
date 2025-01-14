@@ -129,7 +129,10 @@ LaSiestaHotel.motsCles = [
     "chambre",
     "reservation", // Variante de mauvaise orthographe
     "luxe",
-    "escapade"
+    "escapade",
+	"siesta",
+	"la siesta"
+
 ];
 
 // Site favicon icon
