@@ -146,7 +146,9 @@ RestaurantLaSiestaOostende.motsCles = [
 	"goûts",
 	"gouts", // Variante d'orthographe
 	"fête",
-	"fêtes"
+	"fêtes",
+	"siesta",
+	"la siesta"
 ];
 
 // Site favicon icon
