@@ -148,7 +148,9 @@ RestaurantLaSiestaCubanFood.motsCles = [
 	"délicieux",
 	"délicieuse",
 	"culture",
-	"cultures"
+	"cultures",
+	"siesta",
+	"la siesta"
 ];
 
 // Site favicon icon
