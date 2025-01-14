@@ -124,7 +124,9 @@ RestaurantLaSiesta.motsCles = [
     "souper",
     "supper",
     "repas",
-    "repa"
+    "repa",
+	"siesta",
+	"la siesta"
 ];
 
 // Site favicon icon
