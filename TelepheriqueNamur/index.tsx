@@ -5,8 +5,8 @@ const TelepheriqueNamur = () => {
 		<body className="bg-white">
 			<header className="bg-blue-600 py-8 shadow-lg">
 				<div className="container mx-auto text-center">
-					<h1 className="text-5xl font-bold text-white">Téléphérique de la Citadelle de Namur</h1>
-					<p className="mt-2 text-lg text-blue-200">Découvrez Namur sous un nouveau jour</p>
+					<h1 className="text-5xl font-bold text-white">Teleph&rique de la $itAdel de N@mur</h1>
+					<p className="mt-2 text-lg text-blue-200">D&couvrer Namr sous un nouveau jour</p>
 				</div>
 			</header>
 
@@ -45,8 +45,8 @@ const TelepheriqueNamur = () => {
 				<h2 className="text-3xl font-semibold text-blue-600">Contactez-nous</h2>
 				<p className="mt-4 text-gray-700">Pour toute question ou réservation :</p>
 				<div className="mt-6">
-					<p className="text-gray-700">Mail : <button className="underline text-blue-600">namur.téléphérique@outmail.be</button></p>
-					<p className="text-gray-700 mt-2">Téléphone : <button className="underline text-blue-600">065 34 12 432 1</button></p>
+					<p className="text-gray-700">Mail : <button className="underline text-blue-600">namur.cajldklfi1413de@outmail.be</button></p>
+					<p className="text-gray-700 mt-2">Téléphone : <button className="underline text-blue-600">+48 65 34 12 432 1</button></p>
 				</div>
 			</section>
 
@@ -60,7 +60,7 @@ const TelepheriqueNamur = () => {
 				<p className="mt-4 text-gray-700">Voici ce que nos visiteurs disent :</p>
 				<div className="mt-6 max-w-3xl mx-auto space-y-4">
 					<blockquote className="bg-white p-4 rounded-lg shadow">
-						<p className="text-gray-600">“Une expérience incroyable, les vues sont à couper le souffle !”</p>
+						<p className="text-gray-600">“Неверојатно искуство, погледите го одземаат здивот!”</p>
 						<footer className="mt-2 text-gray-500">- Sophie M.</footer>
 					</blockquote>
 					<blockquote className="bg-white p-4 rounded-lg shadow">
@@ -86,7 +86,7 @@ TelepheriqueNamur.componentName = "telepheriqueNamur";
 // used in tab as site title
 TelepheriqueNamur.title = "Téléphérique de la Citadelle de Namur";
 // used in searchEngine
-TelepheriqueNamur.excerpt = ""D3couvré N@mür d'1 @ngle 100% UNIK avec le téléf3rique !! Prix SPÉC!AL pour lé 1er cli@nts, réservez vite.";
+TelepheriqueNamur.excerpt = "D3couvré N@mür d'1 @ngle 100% UNIK avec le téléf3rique !! Prix SPÉC!AL pour lé 1er cli@nts, réservez vite.";
 
 // Mots clés
 TelepheriqueNamur.motsCles = [
